@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/NQ0nRbi_REIAAAAC/awesome-computer-kid-computer.gif" width="auto"/>
   <h3>Learning to code better</h3>
 </div>
 <div align="center">
