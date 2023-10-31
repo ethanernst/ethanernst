@@ -5,7 +5,7 @@
   <b>What I am working on (in no specific order):</b><br>
   • vault rework (many new ideas 💭)<br>
   • learning figma for better design and faster project prototyping<br>
-  • doing more short projects for learning (under a week to work on project)<br>
+  • doing more short projects for learning (one week to work on project)<br>
 </div>
 
 
